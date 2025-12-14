@@ -1,5 +1,5 @@
 {
-  "name": "Gemini Code Reviewer",
+  "name": "Code Reviewer",
   "description": "An AI-powered tool to automatically review your code, providing insightful feedback on quality, performance, and best practices.",
   "requestFramePermissions": []
 }
